@@ -1,6 +1,6 @@
 # Virtual Reality Tips
 
-* [Oculus Quest 2](/vrtips/oculusquest2)
+* [Oculus™ Quest 2](/vrtips/oculusquest2)
 
 ***
 
