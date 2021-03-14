@@ -11,7 +11,7 @@
 * A dry optical lens microfiber cloth to clean the lenses.
 * An anti-fatigue mat. I use a Gorilla Grip kitchen mat from Amazon. Place this in the center of your gaming area. It keeps your feet from getting tired and lets you orient by feel.
 
-## Recommended games
+## Recommended games and apps
 
 * In Death: Unchained. This has the most replay value of any game I've played on the Quest. It's a roguelike bow shooter with incredible depth.
 * Arizona Sunshine. This zombie FPS is extremely well done. I've played through the main quest and two DLCs. The Damned DLC had a [glitch](https://twitter.com/BillSorensen/status/1334337763726950400) that forced me to restart it from the beginning, but it was still worth it. It also supports multiplayer.
