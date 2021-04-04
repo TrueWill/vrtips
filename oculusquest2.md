@@ -4,8 +4,8 @@
 
 * The Oculus Quest 2 itself. I bought the 64 GB model, but I'd recommend 256 GB - big games will fill it up.
 * Improved head strap. The one that comes with it is not very comfortable. I've got the official Elite Strap, and it's definitely an improvement. Even then, with two people you'll probably do some adjusting.
-* [VR Cover](https://us.vrcover.com/collections/oculus%E2%84%A2-quest-2) sells excellent add-ons for the Quest. I bought their Facial Interface & Foam Replacement set, which I really like. Consider signing up for their newsletter. _(Avoid cheap alternatives.)_
-* Improved controller grips with hand straps. I have some from CNBEYOUNG through Amazon; they're nice but a little bulky. I'd like to try the VR Cover ones. VR Cover also makes controller protectors, which seem like a good idea for games like GORN.
+* [VR Cover](https://us.vrcover.com/collections/oculus%E2%84%A2-quest-2) sells excellent add-ons for the Quest. I bought their Facial Interface & Foam Replacement set, which I really like. I also bought their "halo" controller protectors, which do not interfere with tracking and avoid damage when playing games like GORN. Consider signing up for their newsletter. _(Avoid cheap alternatives.)_
+* Improved controller grips with hand straps. I have some from CNBEYOUNG through Amazon; they're nice but a little bulky. I'd like to try the VR Cover ones.
 * Headphones or earbuds. These make a **big** difference. I have the Logitech G333 VR Gaming Earphones, which were designed for the Quest. They sound good and the cords are the right lengths, but sometimes they fall out of my ears.
 * A case, especially if you want to transport it. I bought a CASEMATIX Hard Case through Amazon; you can customize the foam however you like. It's not super-high quality, but it works and it's lightweight. It protects the lenses from sunlight (**bad**) and scratches.
 * A dry optical lens microfiber cloth to clean the lenses.
