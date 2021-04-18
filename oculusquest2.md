@@ -29,6 +29,7 @@
 * Adjust the [IPD](https://support.oculus.com/351344152731317/) to match your eyes.
 * Check out [App Lab](https://developer.oculus.com/blog/introducing-app-lab-a-new-way-to-distribute-oculus-quest-apps/) for beta games. See the [directory](https://applab.games/).
 * Update your Quest and games regularly.
+* **(NEW)** If you share your headset with someone and they want to adjust the head strap, take a marker (green works on black) and mark the strap with your position. It will be much easier to readjust. Don't forget to adjust the IPD, too (see above).
 
 ## Resources
 
