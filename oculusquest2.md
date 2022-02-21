@@ -15,7 +15,7 @@
 
 ## Recommended games and apps
 
-* Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). There are some rough spots - expect to watch YouTube videos for tips, and if it says it's freeing memory it's time to quit before it crashes - but the developers are planning more enhancements.
+* **(NEW)** Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). There are some rough spots - expect to watch YouTube videos for tips, and if it says it's freeing memory it's time to quit before it crashes - but the developers are planning more enhancements.
 * In Death: Unchained. This has the most replay value of any game I've played on the Quest. It's a roguelike bow shooter with incredible depth.
 * Arizona Sunshine. This zombie FPS is extremely well done. I've played through the main quest and two DLCs. The Damned DLC had a [glitch](https://twitter.com/BillSorensen/status/1334337763726950400) that forced me to restart it from the beginning, but it was still worth it. It also supports multiplayer.
 * GORN. If you don't mind cartoonish violence, this gladiator fighting game will let you vent your frustrations while getting a workout. Make sure you have enough room; I've come close to breaking a controller when throwing a punch. Setting the Guardian so that breaking the boundary pauses the game helps.
@@ -30,7 +30,7 @@
 * Adjust the [IPD](https://support.oculus.com/351344152731317/) to match your eyes.
 * Check out [App Lab](https://developer.oculus.com/blog/introducing-app-lab-a-new-way-to-distribute-oculus-quest-apps/) for beta games. See the [directory](https://applab.games/).
 * Update your Quest and games regularly.
-* **(NEW)** If you share your headset with someone and they want to adjust the head strap, take a marker (green works on black) and mark the strap with your position. It will be much easier to readjust. Don't forget to adjust the IPD, too (see above).
+* If you share your headset with someone and they want to adjust the head strap, take a marker (green works on black) and mark the strap with your position. It will be much easier to readjust. Don't forget to adjust the IPD, too (see above).
 
 ## Resources
 
