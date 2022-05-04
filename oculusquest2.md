@@ -1,9 +1,9 @@
-# Oculus™ Quest 2
+# Meta Quest 2
 
 ## Recommended gear
 
-* The Oculus Quest 2 itself. I bought the 64 GB model, but I'd recommend 256 GB - big games will fill up the smaller storage.
-* Improved head strap. The one that comes with it is not very comfortable. I've got the official Elite Strap, and it's definitely an improvement. Even then, with two people you'll probably do some adjusting.
+* The Meta (formerly Oculus) Quest 2 itself. I bought the 64 GB model, but I'd recommend 256 GB - big games will fill up the smaller storage.
+* Improved head strap. The one that comes with it is not very comfortable. I've got the official Elite Strap, and it's definitely an improvement. Even then, with two people you'll probably do some adjusting. (The side piece of my Elite Strap broke; I fixed it with glue for plastic, an old plastic card for stability, and duct tape.)
 * [VR Cover](https://us.vrcover.com/collections/oculus%E2%84%A2-quest-2) sells excellent add-ons for the Quest. I bought their Facial Interface & Foam Replacement set, which I really like. I also bought their "halo" controller protectors, which do not interfere with tracking and avoid damage when playing games like GORN. Consider signing up for their newsletter. _(Avoid cheap alternatives.)_
 * Improved controller grips with hand straps. I have some from CNBEYOUNG through Amazon; they're nice but a little bulky. **(NEW)** I finally switched to the VR Cover controller grips, which I prefer.
 * Headphones or earbuds. These make a **big** difference. I have the Logitech G333 VR Gaming Earphones, which were designed for the Quest. They sound good and the cords are the right lengths, but sometimes (not often) they fall out of my ears.
@@ -17,7 +17,7 @@
 
 ## Recommended games and apps
 
-* **(NEW)** Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). There are some rough spots - expect to watch YouTube videos for tips, and if it says it's freeing memory it's time to quit before it crashes - but the developers are planning more enhancements.
+* **(NEW)** Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). There are some rough spots - expect to watch YouTube videos for tips, and if it says it's freeing memory it's time to quit before it crashes - but the developers are planning more enhancements. (My username is **baldgoth** if you'd like to say I referred you!)
 * In Death: Unchained. This has the most replay value of any game I've played on the Quest, with the possible exception of Zenith. It's a roguelike bow shooter with incredible depth.
 * Arizona Sunshine. This zombie FPS is extremely well done. I've played through the main quest and two DLCs. The Damned DLC had a [glitch](https://twitter.com/BillSorensen/status/1334337763726950400) that forced me to restart it from the beginning, but it was still worth it. It also supports multiplayer.
 * GORN. If you don't mind cartoonish violence, this gladiator fighting game will let you vent your frustrations while getting a workout. Make sure you have enough room; I've come close to breaking a controller when throwing a punch. Setting the Guardian so that breaking the boundary pauses the game helps.
