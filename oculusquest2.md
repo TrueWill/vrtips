@@ -11,13 +11,13 @@
 * A dry optical lens microfiber cloth to clean the lenses.
 * An anti-fatigue mat. I use a Sky Solutions anti fatigue mat from Amazon. Place this in the center of your gaming area. It keeps your feet from getting tired and lets you orient by feel.
 
-**(NEW)** You might also consider getting a second Quest if more than one person in your household uses it. This way you can play multiplayer games together, you don't have to adjust one Quest between players, and you don't have to worry as much about one player running down the battery.
+You might also consider getting a second Quest if more than one person in your household uses it. This way you can play multiplayer games together, you don't have to adjust one Quest between players, and you don't have to worry as much about one player running down the battery. App Sharing between headsets is tricky, though, and you may have to set up the second one with the appropriate account (see [this article](https://www.lifewire.com/share-apps-on-oculus-quest-2-5115954)). Optionally you can buy the game twice (hopefully when it's on sale).
 
 ![Quest in case](/vrtips/img/quest_in_case.jpg)
 
 ## Recommended games and apps
 
-* **(NEW)** Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). There are some rough spots - expect to watch YouTube videos for tips, and if it says it's freeing memory it's time to quit before it crashes - but the developers are planning more enhancements. (My username is **baldgoth** if you'd like to say I referred you!)
+* Zenith: The Last City. You don't have to be a die-hard MMORPG fan to like this; it has something for nearly everyone. You can play solo or with a party, combat-heavy or exploration, crafting or looting - it's your choice. As of this writing there is no PvP; it's all cooperative. The gliding/flying is my favorite part (try the advanced settings). (My username is **baldgoth** if you'd like to say I referred you!) Unfortunately recent updates, while they added more dungeons and quests, "fixed" the flying to the point where it's no longer nearly as fun (the "speedflying" trick no longer works - see [this video](https://t.co/eoxExnk11q)). The updates also introduced bugs in the Godstones (spells and special abilities). As I'm at the level cap too, I don't have as much incentive to play anymore.
 * In Death: Unchained. This has the most replay value of any game I've played on the Quest, with the possible exception of Zenith. It's a roguelike bow shooter with incredible depth.
 * Arizona Sunshine. This zombie FPS is extremely well done. I've played through the main quest and two DLCs. The Damned DLC had a [glitch](https://twitter.com/BillSorensen/status/1334337763726950400) that forced me to restart it from the beginning, but it was still worth it. It also supports multiplayer.
 * GORN. If you don't mind cartoonish violence, this gladiator fighting game will let you vent your frustrations while getting a workout. Make sure you have enough room; I've come close to breaking a controller when throwing a punch. Setting the Guardian so that breaking the boundary pauses the game helps.
@@ -41,7 +41,7 @@
 * [Cas and Chary VR](https://www.youtube.com/channel/UCN0FGqUt7e79xKoPAZQ8tww)
 * [SteveKnows](https://www.youtube.com/channel/UCItGV5DOPb5kw4rCQZNmCZg)
 * [Virtual Reality Oasis](https://www.youtube.com/channel/UCsmk8NDVMct75j_Bfb9Ah7w)
-* [IN DEATH UNCHAINED. TIPS FOR FUN GAMEPLAY!](https://www.youtube.com/channel/UC_D6dmQkTMiXjzXylNhBW_w)
+* [The Monk Hunter - In Death Unchained tips](https://www.youtube.com/channel/UC_D6dmQkTMiXjzXylNhBW_w)
 * [Rico @ 50](https://www.youtube.com/channel/UCHRfu5vTFocGeD3rOurZwhA) (more In Death tips)
 * [ThrillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA)
 
