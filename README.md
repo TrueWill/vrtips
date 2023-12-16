@@ -1,6 +1,7 @@
 # Virtual Reality Tips
 
 * [Meta Quest 2](/vrtips/oculusquest2)
+* [Meta Quest 3](/vrtips/quest3)
 
 ***
 
