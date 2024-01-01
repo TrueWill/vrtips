@@ -45,6 +45,8 @@ You might also consider getting a second Quest if more than one person in your h
 * [Rico @ 50](https://www.youtube.com/channel/UCHRfu5vTFocGeD3rOurZwhA) (more In Death tips)
 * [ThrillSeeker](https://www.youtube.com/channel/UCSbdMXOI_3HGiFviLZO6kNA)
 
+[Meta Quest 3](/vrtips/quest3)
+
 [Home](/vrtips/)
 
 ***
